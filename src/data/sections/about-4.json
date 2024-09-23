@@ -1,0 +1,20 @@
+{
+    "title": "Años de experiencia garantizando calidad y confianza",
+    "subtitle": "Nuestros Expertos",
+    "description": "Con más de 10 años de experiencia en la producción y distribución de concreto premezclado, en CAYCO Concretos nos comprometemos a ofrecer productos que cumplen con los más altos estándares de la industria de la construcción. Nuestro enfoque en la innovación, la sustentabilidad y el servicio personalizado nos ha permitido ser un referente en el sector.",
+    "image": {
+        "url": "/img/photo/14.jpg",
+        "alt": "image"
+    },
+    "avatar": {
+        "image": "/img/faces/1.jpg",
+        "name": "Joe French",
+        "subname": "Project Agent"
+    },
+    "items": [
+        "+1,250 Proyectos Realizados en Hidalgo y México",
+        "Equipo de Expertos Certificados",
+        "+940 Proyectos en Infraestructura y Construcción Pública",
+        "Certificados y Reconocidos por la Excelencia"
+    ]
+}

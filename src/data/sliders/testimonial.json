@@ -1,0 +1,25 @@
+{
+    "title": "LO QUE PIENSAN DE NOSOTROS",
+    "subtitle": "Testimonios",
+    "items": [
+        {
+            "name": "Carlos M.",
+            "image": "/img/faces/2.jpg",
+            "role": "Ingeniero Civil",
+            "text": "Hemos trabajado con CAYCO en varios proyectos y siempre cumplen con los plazos y la calidad del concreto. Es un proveedor confiable y su asesoría técnica nos ha ayudado mucho en la planificación de las obras."
+        },
+        {
+            "name": "María G.",
+            "image": "/img/faces/1.jpg",
+            "role": "Contratista de Obras Públicas",
+            "text": "CAYCO nos proporcionó concreto para una obra de infraestructura importante. La entrega fue puntual y el material era justo lo que necesitábamos. Sin duda seguiremos trabajando con ellos en futuros proyectos."
+        },
+        {
+            "name": "Luis T.",
+            "image": "/img/faces/3.jpg",
+            "role": "Gerente de Construcción",
+            "text": "Llevamos varios años utilizando el concreto premezclado de CAYCO y siempre hemos quedado satisfechos. Son profesionales, y su equipo es muy atento y resuelve cualquier duda rápidamente."
+        }
+    ],
+    "showPartners": 1
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Qué hacemos",
+    "items": [
+        {
+            "icon": "/img/icons/3.svg",
+            "num": "01.",
+            "title": "Concretos Comerciales",
+            "text": "Ofrecemos una amplia gama de concretos comerciales que cumplen con los estándares de calidad necesarios para todo tipo de construcción, ya sea residencial o industrial. Entre nuestras opciones destacadas se encuentran:",
+            "highlights": [
+                "Concreto Convencional",
+                "Módulo de Ruptura",
+                "Concreto Estructural"
+            ],
+            "link": "/services/service-1"
+        },
+        {
+            "icon": "/img/icons/5.svg",
+            "num": "02.",
+            "title": "Concretos de Innovación",
+            "text": "CAYCO lidera la industria con concretos innovadores que no solo mejoran la calidad de las obras, sino que también aportan soluciones sustentables y tecnológicas para reducir el impacto ambiental. Nuestras opciones incluyen:",
+            "highlights": [
+                "Concreto Ecológico",
+                "Concreto Autohidratante",
+                "Concreto para Autoconstrucción",
+                "Concreto Autocompactable",
+                "Concreto Libre de Acero"
+            ],
+            "link": "/services/service-2"
+        },
+        {
+            "icon": "/img/icons/4.svg",
+            "num": "03.",
+            "title": "Concretos Especiales",
+            "text": "Para proyectos con requisitos específicos, ofrecemos concretos de características avanzadas que se ajustan a las demandas más rigurosas:",
+            "highlights": [
+                "Extensibilidad",
+                "Trabajabilidad extendida",
+                "Baja permeabilidad",
+                "Concretos Impermeables",
+                "Concretos Sobre especificación"
+            ],
+            "link": "/services/service-3"
+        }
+    ]
+}

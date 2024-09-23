@@ -1,0 +1,40 @@
+{
+    "items": [
+        {
+            "title": " Planificación y <br/> Asesoría Personalizada",
+            "text": "En CAYCO Concretos, entendemos que cada proyecto es único. Ofrecemos asesoría especializada y planificación personalizada para garantizar que el tipo de concreto que utilices sea el más adecuado para tu obra, optimizando tanto los recursos como el tiempo de ejecución.",
+            "list": [
+                "Evaluación de proyectos <br/> in situ",
+                "Recomendaciones de concreto <br/> según necesidades específicas",
+                "Planificación eficiente para <br/> grandesinfraestructuras y <br/> proyectos residenciales"
+            ]
+        },
+        {
+            "title": "Innovación en Concreto Premezclado",
+            "text": "Somos pioneros en soluciones innovadoras de concreto que mejoran la calidad, la resistencia y la sustentabilidad de tus proyectos. Nuestro concreto premezclado no solo está diseñado para cumplir con los más altos estándares, sino que también incorpora tecnologías avanzadas que aumentan su rendimiento.",
+            "list": [
+                "Concreto ecológico que <br/> facilita la filtración de agua",
+                "Concreto autocompactable <br/> para estructuras complejas",
+                "Concreto autohidratante <br/> que mejora la eficiencia <br/> de uso"
+            ]
+        },
+        {
+            "title": " Tec. Avanzada para una Entrega Eficiente",
+            "text": "Nuestro servicio de bombeo de materiales permite transportar el concreto hasta los lugares más difíciles de acceder, asegurando que el material llegue en las mejores condiciones y dentro de los tiempos estipulados.",
+            "list": [
+                "Entrega rápida y precisa",
+                "Monitoreo GPS en tiempo <br/> real de nuestras unidades",
+                "Tecnología de dosificación <br/> automatizada para <br/> mayor precisión"
+            ]
+        },
+        {
+            "title": "Capacitación <br/> y Soporte <br/> Técnico",
+            "text": "No solo entregamos concreto, también ofrecemos capacitación especializada para asegurar que tu equipo sepa cómo manejar y sacar el máximo provecho de nuestros productos.",
+            "list": [
+                "Capacitación en uso y <br/> manejo de concreto",
+                "Soporte técnico continuo <br/> durante todo el proyecto",
+                "Certificación de personal <br/> con normativas de <br/> la industria"
+            ]
+        }
+    ]
+}

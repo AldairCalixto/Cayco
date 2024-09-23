@@ -1,0 +1,31 @@
+{
+    "bg_image": "/img/photo/1.jpg",
+    "title": "Innovación y<br/><span class=\"mil-accent\">Calidad en Concreto</span><br/>Premezclado",
+    "subtitle": "Explora Nuestros Proyectos Líderes en Concreto Sustentable",
+    "button": {
+        "link": "/projects",
+        "label": "View Projects"
+    },
+    "numbers": [
+        {
+            "value": "300",
+            "afterValue": "+",
+            "label": "Proyectos exitosos <br/> en Todo Hidalgo."
+        },
+        {
+            "value": "9",
+            "afterValue": "k+",
+            "label": "Horas de Atención <br/>Ininterrumpida"
+        },
+        {
+            "value": "10",
+            "afterValue": "+",
+            "label": "Una década liderando <br/> la innovación en concreto en la región."
+        },
+        {
+            "value": "99",
+            "afterValue": "+",
+            "label": "Líderes en  <br/> Distribución de Concreto Sustentable"
+        }
+    ]
+}

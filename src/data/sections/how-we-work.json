@@ -1,0 +1,21 @@
+{
+    "title": "Así es como sucede la magia en CAYCO Concretos",
+    "subtitle": "Cómo Trabajamos",
+    "items": [
+        {
+            "title": "Alta Eficiencia",
+            "icon": "/img/icons/7.svg",
+            "text": "En CAYCO Concretos, optimizamos cada etapa del proceso de producción y entrega de concreto. Desde la mezcla en planta hasta la distribución en obra, garantizamos un flujo de trabajo rápido y preciso, asegurando que tu proyecto avance sin contratiempos y se cumplan los plazos establecidos."
+        },
+        {
+            "title": "Equipo de Expertos",
+            "icon": "/img/icons/8.svg",
+            "text": "Contamos con un equipo altamente capacitado de ingenieros y operadores que están a la vanguardia de la tecnología en la construcción. Su experiencia y dedicación aseguran que cada proyecto reciba la atención y cuidado necesarios para superar las expectativas de calidad y seguridad."
+        },
+        {
+            "title": "Tecnología Avanzada",
+            "icon": "/img/icons/9.svg",
+            "text": "Utilizamos sistemas de **monitoreo GPS** y **tecnología automatizada** para garantizar que cada entrega de concreto sea precisa y eficiente. Nuestra infraestructura tecnológica asegura que el concreto premezclado que llega a tu obra cumpla con los más altos estándares de calidad y resistencia​​(Cayco)."
+        }
+    ]
+}

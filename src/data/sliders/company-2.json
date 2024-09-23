@@ -1,0 +1,23 @@
+{
+    "title": "Lo que hemos hecho",
+    "subtitle": "Trabajos",
+    "description": "Cada proyecto que realizamos es un reflejo de nuestro compromiso con la calidad, la innovación y la eficiencia. Desde grandes infraestructuras hasta proyectos residenciales, en CAYCO Concretos hemos transformado ideas en estructuras sólidas que perduran en el tiempo.<br/> Descubre nuestros proyectos y cómo hemos ayudado a construir el futuro con soluciones de concreto premezclado de alta calidad.",
+    "button": {
+        "label": "Ver Proyectos",
+        "link": "/portfolio"
+    },
+    "items": [
+        {
+            "image": "/img/photo/8.jpg",
+            "alt": "image"
+        },
+        {
+            "image": "/img/photo/7.jpg",
+            "alt": "image"
+        },
+        {
+            "image": "/img/photo/1.jpg",
+            "alt": "image"
+        }
+    ]
+}

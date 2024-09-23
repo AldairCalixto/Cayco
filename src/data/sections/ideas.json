@@ -1,0 +1,26 @@
+{
+    "title": "Transformamos proyectos en realidades sostenibles y duraderas",
+    "subtitle": "Nuestro Propósito en CAYCO Concretos",
+    "description": "En CAYCO, nos especializamos en la producción y distribución de concreto premezclado, asegurando que cada proyecto cuente con materiales de la más alta calidad y resistencia. Nuestra tecnología avanzada y enfoque en la sustentabilidad nos permite ofrecer soluciones innovadoras para la construcción de infraestructuras que marcan la diferencia.",
+    "button": {
+        "link": "/about",
+        "label": "Más Sobre Nosotros"
+    },
+    "items": [
+        {
+            "icon": "/img/icons/3.svg",
+            "link": "/services/service-1",
+            "label": "Concreto Premezclado"
+        },
+        {
+            "icon": "/img/icons/4.svg",
+            "link": "/services/service-2",
+            "label": "Soluciones Sustentables"
+        },
+        {
+            "icon": "/img/icons/5.svg",
+            "link": "/services/service-3",
+            "label": "Asesoría Técnica"
+        }
+    ]
+}
