@@ -45,7 +45,7 @@ const DefaultHeader = () => {
                                     {item.children.length > 0 && (
                                     <ul className={activeSubMenu === index ? 'mil-active' : ''}>
                                         {item.children.map((subitem, subIndex) => (
-                                        <li key={`header-submenu-item-${subIndex}`} className={isPathActive(subitem.link) ? "mil-active" : ""}>
+                                        <li key={`header-submenu-item-${subIndex}`} className={isPathActive(subitem.link) ? "mil-active text-light" : ""}>
                                             <Link href={subitem.link}>
                                                 {subitem.label}
                                             </Link>

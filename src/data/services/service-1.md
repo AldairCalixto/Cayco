@@ -2,28 +2,38 @@
 #preview details
 title: "Tipos de Concreto"
 icon: "/img/icons/3.svg"
-short: "Proveemos una variedad de concretos premezclados que se adaptan a las especificaciones y requisitos técnicos de cualquier proyecto, desde construcciones residenciales hasta grandes infraestructuras públicas."
+short: "Proveemos <br/> una variedad de concretos premezclados que se adaptan a las especificaciones y requisitos técnicos de cualquier proyecto, desde construcciones residenciales hasta grandes infraestructuras públicas."
 
 #full details
 
 description:
   - layout: 1
-    title: Description
+    mainH1: Tenemos diferentes alternativas
+    title: Concreto convencional <br>(clase II)
     content:
-      <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden - Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
-      <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+      <p>
+        DESCRIPCIÓN GENÉRICA <br> 
+        Concreto de uso general para todo tipo de construcciones que no requieran características especiales y son utilizados en Pisos, losas, muros, cimentaciones, banquetas, guarniciones, etc.    
+      </p>
     divider: true
 
   - layout: 2
-    title: Benefits
+    title: Concreto estructural <br>(clase I)
     content:
-      <p>Our architectural work improves people's lives. We work closely with clients to create functional solutions that creatively respond to the needs of individuals and organizations. From corporate facility innovation to commercial developments, we create beautiful, balanced designs fueled by big ideas.</p>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+      <p>Concreto de alta calidad que cumple con las especificaciones más estrictas de los reglamentos de construcción necesarias en obras tipo A o B1 (Hospitales, Escuelas, teatros, edificios públicos, bibliotecas, cines, centros comerciales, etc.)</p>
+    
+    divider: true
+
+  - layout: 3
+    title: Concretos resistencia rápida
+    content:
+      <p>Es un concreto de avanzada tecnología que tiene como principal característica  alcanzar su resistencia a edades tempranas gracias a la utilización de aditivos que aceleran el proceso.</p>
     list:
-      - 3D Modeling
-      - Programs to Map Territory
-      - Robotics and AI Technology
-      - Material Simulation
+      - <strong>Resistencia rápida:</strong> 14 días
+      - <strong>Resistencia ultra rápida:</strong> 7 días
+      - <strong>Resistencia super ultra rápida:</strong> 3 días
+      - <strong>Concreto de resistencia:</strong> de 12 hrs hasta 1 día
+
     divider: false
 
 sidebar:
@@ -81,16 +91,55 @@ gallery:
 
 description2:
   - layout: 1
-    title: Perfect Planning
+    title: Concreto MR (Módulo de Ruptura)
     content:
-      <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
-    divider: false
+      <p>DESCRIPCIÓN GENÉRICA <br>
+        Este concreto se ha diseñado para ser utilizado en la construcción de elementos que estén sujetos a esfuerzos de flexión, por lo tanto, su campo de aplicación se encuentra en la construcción de pavimentos, pisos industriales, infraestructura urbana, proyectos carreteros, etc.
+      </p>
+    divider: true
 
   - layout: 1
-    title: Approach
+    title: concreto Ligero
     content:
-      <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+      <p>
+        Un concreto para ser usado en elementos secundarios de las edificaciones que requieran reducir las cargas muertas o para colar elementos de relleno que no soporten cargas estructurales, también puede ser usado en. Losas y muros, muros divisorios, capas de nivelación, relleno de nivelación, etc.
+      </p>
     divider: true
+
+  - layout: 1
+    title: Relleno Fluido
+    content:
+      <p>
+        Es un mortero de peso controlado en base a la necesidad, que puede ser utilizado como relleno en obra civil. <br>
+        Por sus propiedades fluye con mayor facilidad huecos o espacios que un concreto o mortero convencional. <br>
+        Puede ser utilizado como relleno compactado para sub-bases y bases, relleno de cepas y zanjas. <br>
+      </p>
+    divider: true
+    
+  - layout: 1
+    title: Concreto de alta resistencia
+    content:
+      <p>
+         El concreto de alta resistencia es un material de gran comportamiento, ideal para proyectos de construcción preforzada, como pilotes, columnas en edificios de mediana y gran altura, muros de contención, columnas y vigas en puentes.<br>
+         Son concretos de resistencias superiores a 400 kg/cm2 (5.000 PSI).
+      </p>
+    divider: true 
+
+  - layout: 1
+    title: Concretos especiales
+    content:
+      <p>
+         Estos concretos se diseñan y suministran de acuerdo con las necesidades y especificaciones de la obra.
+      </p>
+    divider: true 
+
+  - layout: 2
+    title: Aditivos y polímeros especiales 
+    list:
+      - Fibra de polipropileno
+      - Fibra metálica
+      - Fibra antibacteriana
+      - Impermeabilizante, etc.
 
 sidebar2:
   items:
@@ -111,22 +160,22 @@ sidebar2:
         - "Project Work: Platea condimentum cursus."
         - "Launch: Massa volutpat elementum."
 
-faq:
-  subtitle: Have Some Questions?
-  title: We Can Help!
-  button:
-    label: More Questions?
-    link: /contact
-  items:
-    - label: General information
-      content: <p>Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+# faq:
+#   subtitle: Have Some Questions?
+#   title: We Can Help!
+#   button:
+#     label: More Questions?
+#     link: /contact
+#   items:
+#     - label: General information
+#       content: <p>Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
 
-    - label: Management of personal data
-      content: <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+#     - label: Management of personal data
+#       content: <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
 
-    - label: Does Ruizarch accept article submissions?
-      content: <p>Netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+#     - label: Does Ruizarch accept article submissions?
+#       content: <p>Netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
 
-    - label: What is the Ruizarch insights app?
-      content: <p>Malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+#     - label: What is the Ruizarch insights app?
+#       content: <p>Malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
 ---

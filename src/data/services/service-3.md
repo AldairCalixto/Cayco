@@ -2,28 +2,29 @@
 #preview details
 title: "Bombeo <br/> de Materiales"
 icon: "/img/icons/4.svg"
-short: "Ofrecemos el servicio <br/> de bombeo de concreto, facilitando el traslado <br/> y la distribución <br/> del material en obras de difícil acceso, garantizando <br/> una entrega eficiente y puntual."
+short: "Ofrecemos <br/> el servicio  de <br/> bombeo de concreto, facilitando <br/> el traslado <br/> y la distribución <br/> del material <br/> en obras <br/> de difícil acceso, garantizando <br/> una entrega eficiente <br/> y puntual."
 
 #full details
 description:
   - layout: 1
-    title: Description
+    title: <strong>Tiro directo:</strong>
     content:
-      <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden - Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
-      <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+      <p>Comúnmente utilizado donde la olla tiene acceso hasta el lugar del colado</p>
     divider: true
 
   - layout: 2
-    title: Benefits
+    title: <strong>Bomba pluma:</strong>
     content:
-      <p>Our architectural work improves people's lives. We work closely with clients to create functional solutions that creatively respond to the needs of individuals and organizations. From corporate facility innovation to commercial developments, we create beautiful, balanced designs fueled by big ideas.</p>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-    list:
-      - 3D Modeling
-      - Programs to Map Territory
-      - Robotics and AI Technology
-      - Material Simulation
-    divider: false
+      <p>Eleva el concreto a otros niveles o dirigido a zonas donde la olla no tiene acceso</p>
+      
+    divider: true
+    
+  - layout: 2
+    title: <strong>Bomba estacionaria:</strong>
+    content:
+      <p>Se utiliza para obras donde la bomba pluma no tiene acceso o donde se requiere mayor distancia de bombeo.</p>
+      
+    divider: true
 
 sidebar:
   title: Info Areas
@@ -79,17 +80,7 @@ gallery:
     alt: image
 
 description2:
-  - layout: 1
-    title: Perfect Planning
-    content:
-      <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
-    divider: false
-
-  - layout: 1
-    title: Approach
-    content:
-      <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
-    divider: true
+  
 
 sidebar2:
   items:

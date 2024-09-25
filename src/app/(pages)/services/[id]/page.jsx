@@ -26,7 +26,7 @@ async function ServiceDetail( { params } ) {
 
   return (
     <>
-      <PageBanner pageTitle={postData.title} breadTitle={postData.title} bgImage={"/img/photo/12.jpg"} />
+      <PageBanner pageTitle={postData.title} breadTitle={postData.title} bgImage={"/img/photo/service1.jpg"} />
 
       {/* service */}
       <section>
@@ -40,21 +40,49 @@ async function ServiceDetail( { params } ) {
                         <React.Fragment key={`service-description-${key}`}>
                             {item.layout == 1 &&
                             <>
-                                <h2 className="mil-upper mil-up mil-mb-60">{item.title}</h2>
+                                <h2 className="mil-upper mil-up mil-mb-60">{item.mainH1}</h2>
+                                <h3 className="mil-upper mil-up mil-mb-60" dangerouslySetInnerHTML={{__html: item.title}}></h3>
                                 <div className="mil-text mil-up mil-mb-60" dangerouslySetInnerHTML={{__html: item.content}} />
+                                {/* <div className="col-lg-5">
+                                    <ul className="mil-icon-list mil-mb-60">
+                                        {item.list.map((list_item, list_key) => (
+                                        <li className="mil-up" key={`service-description-${key}-list-${list_key}`}><img src="/img/icons/11svg" alt="icon" />{list_item}</li>
+                                        ))}
+                                    </ul>
+                                </div> */}
                             </>
                             }
                             {item.layout == 2 &&
                             <>
-                                <h2 className="mil-upper mil-up mil-mb-60">{item.title}</h2>
+                                <h3 className="mil-upper mil-up mil-mb-60" dangerouslySetInnerHTML={{__html: item.title}}></h3>
                                 <div className="row justify-content-between">
-                                    <div className="col-lg-6">
+                                    <div className="col-lg-12">
+                                        <div className="mil-text mil-up mil-mb-30" dangerouslySetInnerHTML={{__html: item.content}} />
+                                    </div>
+                                    <div className="col-lg-5">
+                                        {/* <ul className="mil-icon-list mil-mb-60">
+                                            {item.list.map((list_item, list_key) => (
+                                            <li className="mil-up" key={`service-description-${key}-list-${list_key}`}><img src="/img/icons/11.svg" alt="icon" />{list_item}</li>
+                                            ))}
+                                        </ul> */}
+                                    </div>
+                                </div>
+                            </>
+                            }
+                            {item.layout == 3 &&
+                            <>
+                                <h3 className="mil-upper mil-up mil-mb-60" dangerouslySetInnerHTML={{__html: item.title}}></h3>
+                                <div className="row justify-content-between">
+                                    <div className="col-lg-12">
                                         <div className="mil-text mil-up mil-mb-30" dangerouslySetInnerHTML={{__html: item.content}} />
                                     </div>
                                     <div className="col-lg-5">
                                         <ul className="mil-icon-list mil-mb-60">
                                             {item.list.map((list_item, list_key) => (
-                                            <li className="mil-up" key={`service-description-${key}-list-${list_key}`}><img src="/img/icons/11.svg" alt="icon" />{list_item}</li>
+                                            <li className="mil-up" key={`service-description-${key}-list-${list_key}`}>
+                                                <img src="/img/icons/11.svg" alt="icon" />
+                                                <span dangerouslySetInnerHTML={{ __html: list_item }} />
+                                            </li>                                          
                                             ))}
                                         </ul>
                                     </div>
@@ -131,18 +159,18 @@ async function ServiceDetail( { params } ) {
                         <React.Fragment key={`service-description2-${key}`}>
                             {item.layout == 1 &&
                             <>
-                                <h2 className="mil-upper mil-up mil-mb-60">{item.title}</h2>
+                                <h3 className="mil-upper mil-up mil-mb-60">{item.title}</h3>
                                 <div className="mil-text mil-up mil-mb-60" dangerouslySetInnerHTML={{__html: item.content}} />
                             </>
                             }
                             {item.layout == 2 &&
                             <>
-                                <h2 className="mil-upper mil-up mil-mb-60">{item.title}</h2>
+                                <h3 className="mil-upper mil-up mil-mb-60">{item.title}</h3>
                                 <div className="row justify-content-between">
-                                    <div className="col-lg-6">
+                                    {/* <div className="col-lg-6">
                                         <div className="mil-text mil-up mil-mb-30" dangerouslySetInnerHTML={{__html: item.content}} />
-                                    </div>
-                                    <div className="col-lg-5">
+                                    </div> */}
+                                    <div className="col-lg-6">
                                         <ul className="mil-icon-list mil-mb-60">
                                             {item.list.map((list_item, list_key) => (
                                             <li className="mil-up" key={`service-description2-${key}-list-${list_key}`}><img src="/img/icons/11.svg" alt="icon" />{list_item}</li>
@@ -160,7 +188,7 @@ async function ServiceDetail( { params } ) {
                     </>
                     }
 
-                    {postData.faq != undefined &&
+                    {/* {postData.faq != undefined &&
                     <>
                         <span className="mil-suptitle mil-upper mil-dark mil-up mil-mb-30">{postData.faq.subtitle}</span>
                         <h2 className="mil-upper mil-up mil-mb-60">{postData.faq.title}</h2>
@@ -187,7 +215,7 @@ async function ServiceDetail( { params } ) {
 
                         <Link href={postData.faq.button.link} className="mil-button mil-up mil-mb-60">{postData.faq.button.label}</Link>
                     </>
-                    }
+                    } */}
                 </div>
                 <div className="col-lg-5">
 

@@ -7,23 +7,18 @@ short: "Además de nuestros productos, brindamos asesoría técnica especializad
 #full details
 description:
   - layout: 1
-    title: Description
+    title: te asesoramos en lo que necesites
     content:
-      <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden - Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
-      <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+      <p>
+        Te acompañamos en el camino de tu proyecto con garantía de profesionalismo a través de una atención ptersonalizada y personal altamente capacitado.
+        <br>
+        Ofrecemos al cliente los mejores tips para el conocimiento del concreto que le permita adquirir el mejor producto conforme a lo requerido para su obra.
+        <br>
+        Si tienes dudas del tipo de concreto que se debe utilizar, cómo colocarlo o tratarlo, Llámanos y te apoyamos sin compromiso.
+      </p>
     divider: true
 
-  - layout: 2
-    title: Benefits
-    content:
-      <p>Our architectural work improves people's lives. We work closely with clients to create functional solutions that creatively respond to the needs of individuals and organizations. From corporate facility innovation to commercial developments, we create beautiful, balanced designs fueled by big ideas.</p>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-    list:
-      - 3D Modeling
-      - Programs to Map Territory
-      - Robotics and AI Technology
-      - Material Simulation
-    divider: false
+
 
 sidebar:
   title: Info Areas
@@ -35,38 +30,9 @@ sidebar:
         - 3D Modeling Planning
         - Architecture
 
-    - layout: list
-      title: Sustainability & Wellness
-      content:
-        - Recreational Parks
-        - Park and Public Squares
-        - Parkland
 
-    - layout: values
-      title: Benefits
-      content:
-        - value: 10
-          afterValue: +
-          label: Years <br>Experience
-        
-        - value: 99
-          afterValue: +
-          label: Billion <br>Invested
 
-        - value: 10
-          afterValue: +
-          label: Years <br>Experience
-        
-        - value: 99
-          afterValue: +
-          label: Billion <br>Invested
-
-    - layout: list
-      title: Project agent
-      content:
-        - Joe French
-        - joe.french@ruizarch.com
-        - (570) 253 - 2853
+   
 
 gallery:
   - image: /img/covers/1.jpg
@@ -79,17 +45,7 @@ gallery:
     alt: image
 
 description2:
-  - layout: 1
-    title: Perfect Planning
-    content:
-      <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
-    divider: false
 
-  - layout: 1
-    title: Approach
-    content:
-      <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
-    divider: true
 
 sidebar2:
   items:

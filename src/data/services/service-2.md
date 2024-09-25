@@ -2,28 +2,36 @@
 #preview details
 title: "Concretos de Innovación"
 icon: "/img/icons/5.svg"
-short: "Siempre a la vanguardia, ofrecemos soluciones de concreto innovadoras, como concreto ecológico y concreto autocompactable, que contribuyen a la sostenibilidad y mejoran el rendimiento."
+short: "Siempre a la vanguardia, ofrecemos soluciones de concreto innovadoras, como concreto ecológico y concreto autocompactable, <br> que contribuyen <br> a la <br> sostenibilidad <br> y mejoran el rendimiento.<br>"
 
 #full details
 description:
   - layout: 1
-    title: Description
+    title: CONCRETO ECOLÓGICO
     content:
-      <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden - Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
-      <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+      <p>Es un concreto con alto grado de porosidad y su principal característica es permitir el paso del agua a través de su estructura, por lo que se considera un material de construcción sostenible.</p>
+      <strong>Sus características principales son:</strong> 
+
+      <ul>
+        <li>100% permeable.</li>
+        <li>No es más costoso.</li>
+        <li>Recuperación de las aguas subterráneas.</li>
+        <li>Impide encharcamientos.</li>
+        <li>Se aprovecha el agua pluvial.</li>
+        <li>Previene inundaciones.</li>
+      </ul>
+
     divider: true
 
   - layout: 2
-    title: Benefits
+    title: CONCRETO ANTIBACTERIANO
     content:
-      <p>Our architectural work improves people's lives. We work closely with clients to create functional solutions that creatively respond to the needs of individuals and organizations. From corporate facility innovation to commercial developments, we create beautiful, balanced designs fueled by big ideas.</p>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-    list:
-      - 3D Modeling
-      - Programs to Map Territory
-      - Robotics and AI Technology
-      - Material Simulation
-    divider: false
+      <p>
+        Este tipo de concreto posee la capacidad para reducir y controlar el crecimiento microbiano, es decir,   demuestra una efectividad antimicrobiana, lo que permite tener mejores características sanitarias en el elemento de concreto y, por consiguiente, en las áreas que así lo requieren.<br>
+        Incluso, esta efectividad permite incrementar los periodos de limpieza o desinfección, puesto que la reducción de microorganismos de este tipo de concreto es notable. Este proceso de inhibición microbiana permite disminuir los riesgos de infecciones y contaminaciones.<br>
+      </p>
+      <p><strong>USOS</strong> Viviendas, albercas, hospitales, almacenes, granjas y mercados.</p>
+    divider: true
 
 sidebar:
   title: Info Areas
@@ -80,16 +88,16 @@ gallery:
 
 description2:
   - layout: 1
-    title: Perfect Planning
+    title: CONCRETO DE COLOR
     content:
-      <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
-    divider: false
-
-  - layout: 1
-    title: Approach
-    content:
-      <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+      <p>
+        El concreto de color se realiza con pigmentos.<br>
+        Estos son finas partículas de polvo, con una granulometría aún más fina que la del cemento.<br>
+        Son químicamente inertes, insolubles en agua y resisten la alcalinidad del cemento y crean un color permanente en el concreto.<br>
+        Las razones están dadas por las ventajas de todo tipo que ofrece, entre las que se cuentan la durabilidad del material y la permanencia de la pigmentación.<br>
+      </p>
     divider: true
+
 
 sidebar2:
   items:
