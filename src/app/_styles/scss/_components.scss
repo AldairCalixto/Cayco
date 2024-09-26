@@ -310,11 +310,21 @@ counters
 
 ------------------------------------------- */
 .mil-counter-frame {
+    font-size: larger;
     width: 100%;
     border: 5px solid $dt-10;
     border-image: repeating-linear-gradient( -45deg, transparent, transparent 1px, $dt-10 1px, $dt-10 3px) 5;
     padding: 15px;
 
+    /* Flexbox para asegurar el tamaño uniforme */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Distribuir espacio entre los elementos */
+    
+    /* Altura mínima para igualar los tamaños de los cuadros */
+    min-height: 185px; /* Ajusta el valor según sea necesario */
+    
+    /* Para asegurar que los saltos de línea solo aparezcan en pantallas pequeñas */
     & p {
         & br {
             display: none;
@@ -325,11 +335,13 @@ counters
         }
     }
 
+    /* Estilos cuando .mil-light está presente */
     &.mil-light {
         border: 5px solid $lt-20;
         border-image: repeating-linear-gradient( -45deg, transparent, transparent 1px, $lt-20 1px, $lt-20 3px) 5;
     }
 }
+
 
 .mil-infinite-show {
     & .swiper-wrapper {
@@ -611,12 +623,15 @@ services
 .mil-service-card {
     background-color: $light;
     display: flex;
+    flex-direction: column; /* Organizar elementos de forma vertical */
+    justify-content: space-between; /* Asegurar que los elementos se distribuyan correctamente */
     position: relative;
     overflow: hidden;
     padding: 60px;
     border: 5px solid $dt-10;
     border-image: repeating-linear-gradient( -45deg, transparent, transparent 1px, $dt-10 1px, $dt-10 3px) 5;
     transition: $t-md;
+    height: 100%; /* Asegura que el contenedor ocupe todo el espacio */
 
     & .mil-card-number {
         position: absolute;
@@ -629,6 +644,11 @@ services
 
     & .mil-center {
         width: 100%;
+        flex-grow: 1; /* Permitir que este contenedor crezca para ocupar el espacio sobrante */
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
 
     & .mil-service-text {

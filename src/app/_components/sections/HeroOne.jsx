@@ -34,7 +34,7 @@ const HeroOne = () => {
                                     {Data.numbers.map((item, key) => (
                                     <div className="col-6" key={`hero-numbers-item-${key}`}>
                                         <div className="mil-counter-frame mil-light mil-mb-30">
-                                            <h4 className="mil-accent mil-thin mil-mb-10"><span className="mil-counter" data-number={item.value}>0</span>{item.valueAfter}</h4>
+                                            <h2 className="mil-accent mil-thin mil-mb-10"><span className="mil-counter" data-number={item.value}>0</span>{item.valueAfter}</h2>
                                             <p className="mil-light" dangerouslySetInnerHTML={{__html : item.label}} />
                                         </div>
                                     </div>

@@ -22,7 +22,7 @@ const AdvantagesSection = () => {
                     
                     <div key={`advantages-item-${key}`} className="col-md-6 col-lg-2 d-flex justify-content-center">
                         <div className="mil-advantage mil-icon-box mil-center mil-up mil-mb-60">
-                            <h5 className="mil-upper mil-mb-30 text-center">{item.title}</h5>
+                            <h5 className="mil-upper mil-mb-30 text-center" dangerouslySetInnerHTML={{__html : item.title}}></h5>
                             <div className="mil-icon mil-icon-border mil-mb-30 d-flex justify-content-center">
                             <img src="/img/icons/6.svg" alt="icon" />
                             </div>
